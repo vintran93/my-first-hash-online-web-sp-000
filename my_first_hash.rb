@@ -1,6 +1,6 @@
 def my_hash
 
-your_hash = {"My wife" = }
+your_hash = {"My wife" => }
 
   
 end
