@@ -2,7 +2,6 @@ def my_hash
 
 your_hash = {"My family" => "Anh", "Our daughter" => "Amy"}
 
-  
 end
 
 
